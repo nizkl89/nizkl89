@@ -4,7 +4,7 @@ Hey there! I'm Kingsley — final-year Computer Engineering student at HKUST wit
 ## 🌱 Certificates
 
 I've obtained the following certificates:
-
+<img src="https://your-badge-image-url.png" width="200" alt="AWS Certified Cloud Practitioner">
 [![AWS Certified Cloud Practioner](https://camo.githubusercontent.com/77260a59c602375ac574b4579d4d44e836a1f9d055b1ac158895abe26dfa27f9/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f363830783638302f696d616765732f30303633346638322d623037662d346262642d613662622d3533646533393766633361362f696d6167652e706e67)](https://www.credly.com/badges/bc5f6d73-0283-4e7f-be1c-00391fdbbd1f/public_url)
 
 I am working on my way to acquire the AWS Certified Solutions Architect – Associate certificate. 
