@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hey there! I'm Kingsley — final-year Computer Engineering student at HKUST with an Extended Major in AI.<br>I build AI applications, web apps, mobile apps, cloud solutions, and dabble in cybersecurity.<br>From designing agentic AI systems and intelligent mobile applications to architecting scalable cloud infrastructure, I enjoy creating practical and impactful software that solves real problems.<br>Whether it’s making LLMs actually useful or building full-stack solutions, I’m always excited to turn ideas into reality.
 
+## 🌱 Certificates
+I’ve obtained the following certificates:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bc5f6d73-0283-4e7f-be1c-00391fdbbd1f" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kingsley-lam-10062b2b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lkinz771605@gmail.com) 
