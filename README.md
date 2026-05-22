@@ -5,7 +5,7 @@ Hey there! I'm Kingsley — final-year Computer Engineering student at HKUST wit
 
 I've obtained the following certificates:
 
-[![AWS Certified Solutions Architect](https://images.credly.com/size/680x680/images/0e284c3f-...png)]([https://www.credly.com/badges/xxxx](https://www.credly.com/badges/bc5f6d73-0283-4e7f-be1c-00391fdbbd1f/public_url)
+[![AWS Certified Cloud Practioner](https://images.credly.com/size/680x680/images/0e284c3f-...png)](https://www.credly.com/badges/bc5f6d73-0283-4e7f-be1c-00391fdbbd1f/public_url)
 
 I am working on my way to acquire the AWS Certified Solutions Architect – Associate certificate. 
 
